@@ -1,6 +1,6 @@
 {
-  "name": "react-native-gifted-chat",
-  "version": "2.4.0",
+  "name": "react-native-gifted-chat2",
+  "version": "3.4.0",
   "description": "The most complete chat UI for React Native",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -75,7 +75,7 @@
     "react-native-parsed-text": "0.0.22",
     "react-native-typing-animation": "0.1.7",
     "use-memo-one": "1.1.3",
-    "uuid": "3.4.0"
+    "uuid": "8.3.2"
   },
   "peerDependencies": {
     "react": "*",
