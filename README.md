@@ -1,10 +1,11 @@
-<p align="center" >
-<p align="center" >
-   <a href="https://reactnative.gallery/FaridSafi/gifted-chat">
-    <img alt="react-native-gifted-chat" src="https://thumbs.gfycat.com/AbsoluteSadDobermanpinscher-size_restricted.gif" width="260" height="510" />
- </a>
+## react-native-gifted-chat2
 
-</p>
+- This repo is forked from <a href="https://github.com/FaridSafi/react-native-gifted-chat">react-native-gifted-chat</a> and a fix for "Cannot read property 'v4' of undefined" is applied at commit <a href="https://github.com/hiroshitashir/react-native-gifted-chat2/commit/e81f3b912854b4fb1eabaee051c882699e169c3a">e81f3b912854b4fb1eabaee051c882699e169c3a</a>
+
+<br>
+<br>
+<br>
+
 
 <h3 align="center">
   💬 Gifted Chat
